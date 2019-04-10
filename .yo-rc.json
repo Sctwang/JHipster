@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mortre.react_springboot",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "React_SpringBoot",
+    "packageName": "com.mortre.react_springboot",
+    "packageFolder": "com/mortre/react_springboot",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTk0YWIwNjc3ZWJmOTJmYWYwMTNlZDAyM2E4YjYxMTc1MDc1MDdkMDY3M2Q5NGYxNmUzMzRmMWZiZjI2NzlkMjg4MmVjNjNmOTgwNmM3NGFjNWM1OWFlMmEwNDUzYTUzZTM5OGM1MTg2OTU3MGVjNmI3Y2YyMTA1MTAzZGMyMzM=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn"]
+  }
+}
