@@ -1,5 +1,6 @@
 JHipsterÎÄ¼şÊ÷£º
 
+  .
 ©¦  .editorconfig
 ©¦  .gitattributes
 ©¦  .gitignore
